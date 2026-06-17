@@ -4,7 +4,8 @@ vim.pack.add({
     "https://github.com/windwp/nvim-autopairs",
     "https://github.com/lukas-reineke/indent-blankline.nvim",
     "https://github.com/hiphish/rainbow-delimiters.nvim",
-    "https://github.com/folke/which-key.nvim"
+    "https://github.com/folke/which-key.nvim",
+    "https://codeberg.org/andyg/leap.nvim"
 })
 
 require('lualine').setup()
